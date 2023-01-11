@@ -1,70 +1,36 @@
-<!--
-### Hi there 👋
--->
-<!--
-**sergiogb97/sergiogb97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋🏼, I'm Sergio</h1>
 
-- 🌱 I’m currently learning **Ruby on Rails**
+<br>
 
-- 👨‍💻 All of my projects are available here 👇🏼
+🌱 I’m currently learning **Ruby on Rails**
 
-- 📫 How to reach me: **sergiogb17@gmail.com**
+👨‍💻 All of my projects are available here 👇🏼
 
-- Connect with me: <a href="https://linkedin.com/in/sgarcia-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sgarcia-" height="15" width="15" /></a>
+📫 How to reach me:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&labelColor=22272e)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&labelColor=22272e&logoColor=0A66C2)
+
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-</p>
+
+<br>
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNUBash&labelColor=22272e)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&labelColor=22272e)
+![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=Oracle&labelColor=22272e&logoColor=F80000)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&labelColor=22272e)
+![Phyton](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&labelColor=22272e)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=Ruby&labelColor=22272e&logoColor=CC342D)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=RubyonRails&labelColor=22272e&logoColor=CC0000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&labelColor=22272e)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&labelColor=22272e)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&labelColor=22272e&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&labelColor=22272e)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&labelColor=22272e)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&labelColor=22272e&logoColor=003545)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&labelColor=22272e)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&labelColor=22272e&logoColor=003B57)
