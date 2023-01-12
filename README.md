@@ -35,5 +35,9 @@
   [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&labelColor=22272e&logoColor=003545)]()
   [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&labelColor=22272e)]()
   [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&labelColor=22272e&logoColor=003B57)]()
+  
+  <br/>
+  
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=sergiogb97&theme=highcontrast&show_icons=true&count_private=true)
 
 </div>
